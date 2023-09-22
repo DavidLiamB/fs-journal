@@ -6,3 +6,5 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
+
+i feel like this week has gone super well i learn some new things but nothing super hard to grasp or that stands out very much looking forward to future week to learn more

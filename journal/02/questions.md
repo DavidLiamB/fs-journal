@@ -1,11 +1,11 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > | let mainly then const if you dont want it to be changed lastly var but its outdataed |
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > | is a block of code ran when called that peramiters can be passed tho |
 
 03. What are the `SOLID` principles?
 
@@ -17,7 +17,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > | delete fruit[2] |
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -38,7 +38,7 @@
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > | an if statement |
 
 07. What is the main difference between `parameters` and `arguments`?
 
@@ -54,4 +54,8 @@
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > | let x = -100
+    while(x<=100){
+        consol.log(x)
+        x++
+    } |

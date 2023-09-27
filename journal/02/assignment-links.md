@@ -2,5 +2,5 @@
 
 * **[ScoreBoard](https://github.com/DavidLiamB/ScoreBoard)**
 * **[Swarm](https://github.com/DavidLiamB/Swarm)**
-* **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
+* **[IceCreamParlor](https://github.com/DavidLiamB/IceCreamParlor)**
 * **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**

@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
 * **[Trivia](https://github.com/DavidLiamB/Trivia)**
-* **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
+* **[gregslist_async](https://github.com/DavidLiamB/gregslist_async)**
 * **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**

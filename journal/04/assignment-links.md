@@ -2,5 +2,5 @@
 
 * **[Trivia](https://github.com/DavidLiamB/Trivia)**
 * **[gregslist_async](https://github.com/DavidLiamB/gregslist_async)**
-* **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
+* **[Pokemon](https://github.com/DavidLiamB/Pokemon)**
+* **[Gift](https://github.com/DavidLiamB/Gift)**

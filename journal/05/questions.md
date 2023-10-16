@@ -33,7 +33,7 @@
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ? tag==winter |
+  > | ? tag=winter |
 
 10. What is a ***virtual property***?
 

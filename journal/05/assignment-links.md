@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
+* **[BugrerShack](https://github.com/DavidLiamB/BugrerShack)**
 * **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**

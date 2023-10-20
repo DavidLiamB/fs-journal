@@ -25,7 +25,7 @@
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  > | a programs that handle the relationship between the client and server |
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 

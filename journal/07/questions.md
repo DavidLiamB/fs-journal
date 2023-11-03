@@ -10,7 +10,7 @@
 
 3. What are some of the advantages/uses of a `SPA` over a traditional one?
 
-  > | ANSWER HERE |
+  > | that you can in set the code as and where you need it and it reduces the need to rewrite code |
 
 4. What does the `onMounted` method in Vue do?
 
@@ -26,7 +26,7 @@
 
 7. Which Vue attributes(directives) could you use to conditionally render elements on a page?
 
-  > | ANSWER HERE |
+  > | v-if v-else-if v-else v-show |
 
 8. What is the purpose of the `key` attribute when using `v-for` on an element?
 
@@ -34,4 +34,4 @@
 
 9. What is the `<slot>` element and what is it used for?
 
-  > | ANSWER HERE |
+  > | its a placeholder within a web components shadow DOM, which con be filled with custom markup from the main document |

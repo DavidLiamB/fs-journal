@@ -1,15 +1,15 @@
 # Working in a Professional Environment
 01. What is Inheritance?
 
-> | ANSWER HERE |
+> | os when a child get passed something form a parent |
 
 02. What is the `Singleton` design pattern?
 
-> | ANSWER HERE |
+> | when there is only ever one instance of a class |
 
 03. What is the `Observer` design pattern?
 
-> | ANSWER HERE |
+> | when write that use listeners to watch for specific events or notifications |
 
 04. What is the `Strategy` design pattern?
 
@@ -21,20 +21,21 @@
 
 06. What is test driven development?
 
-> | ANSWER HERE |
+> | what you create small bits of code a time to test them to see of they work |
 
 07. In Scrum/Agile what is the DoD?
 
-> | ANSWER HERE |
+> | the definition of done |
 
 08. Give two examples of a user story:
 
-> | ANSWER HERE |
+> | as a user, i want to be able to view my account
+    as a user, i want to be able to edit my account |
 
 09. During which ceremony is your Sprint Backlog created?
 
-> | ANSWER HERE |
+> | sprint planning |
 
 10. In which of these ceremonies are Tasks assigned to you?
 
-> | ANSWER HERE |
+> | daily scrum |

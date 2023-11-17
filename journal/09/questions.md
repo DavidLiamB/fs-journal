@@ -13,11 +13,11 @@
 
 04. What is the `Strategy` design pattern?
 
-> | ANSWER HERE |
+> | its when you make a few in independent objects that allow you want them in and out on page load to get the desired code |
 
 05. What is the `Factory` design pattern?
 
-> | ANSWER HERE |
+> | when you make one super that you extend to inherit the universal code you need for it and allows you to add the variety you need in child class|
 
 06. What is test driven development?
 

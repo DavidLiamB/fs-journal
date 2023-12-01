@@ -1,5 +1,5 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
+* **[Chore_Score](https://github.com/DavidLiamB/Chore_Score)**
+* **[gregslist_net](https://github.com/DavidLiamB/gregslist_net)**
+* **[All_Spice](https://github.com/DavidLiamB/All_Spice)**

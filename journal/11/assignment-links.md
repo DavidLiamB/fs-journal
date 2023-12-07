@@ -1,4 +1,4 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/DavidLiamB/<ASSIGNMENT_REPO>)**
+* **[All_Spice](https://github.com/DavidLiamB/All_Spice)**
 
